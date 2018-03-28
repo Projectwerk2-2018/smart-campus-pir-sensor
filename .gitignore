@@ -1,0 +1,9 @@
+*.mbed
+*.exe
+*.o
+*.py*
+BUILD
+mbed-os/*
+.vscode/
+.temp/
+mbed_os.lib
